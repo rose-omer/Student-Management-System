@@ -91,7 +91,12 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımların bilgisayarınızda
 
 Giriş ekranı üzerinden kullanıcı adı ve şifrenizi girerek sisteme erişim sağlayabilirsiniz.
 
-![Giriş Ekranı](screenshots/login_screen.png)
+![image](https://github.com/user-attachments/assets/a0a847f2-15d5-4a46-ac40-0f6a0bf52f6c)
+
+
+
+https://github.com/user-attachments/assets/6d8faca5-44e9-4552-a969-06260863dacb
+
 
 ### Öğrenci Yönetim Ekranı
 
