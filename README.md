@@ -100,12 +100,12 @@ https://github.com/user-attachments/assets/6d8faca5-44e9-4552-a969-06260863dacb
 
 Öğrencileri ekleyebilir, güncelleyebilir, silebilir ve arayabilirsiniz.
 
-![Öğrenci Yönetim Ekranı](![image](https://github.com/user-attachments/assets/a30213df-5f9f-4a5b-bc4c-082646b0eff6)
-)
+![image](https://github.com/user-attachments/assets/b31b8ffd-da43-44c3-86bc-e569d8a417d6)
 
-## Katkıda Bulunanlar
 
-- **[İsim Soyisim](https://github.com/kullaniciadi)** - Proje Sahibi
+https://github.com/user-attachments/assets/04d73fc5-503b-4754-81ef-5eacad205c56
+
+
 
 ## Lisans
 
