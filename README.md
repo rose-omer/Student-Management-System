@@ -93,8 +93,6 @@ Giriş ekranı üzerinden kullanıcı adı ve şifrenizi girerek sisteme erişim
 
 ![image](https://github.com/user-attachments/assets/a0a847f2-15d5-4a46-ac40-0f6a0bf52f6c)
 
-
-
 https://github.com/user-attachments/assets/6d8faca5-44e9-4552-a969-06260863dacb
 
 
@@ -102,7 +100,8 @@ https://github.com/user-attachments/assets/6d8faca5-44e9-4552-a969-06260863dacb
 
 Öğrencileri ekleyebilir, güncelleyebilir, silebilir ve arayabilirsiniz.
 
-![Öğrenci Yönetim Ekranı](screenshots/student_management.png)
+![Öğrenci Yönetim Ekranı](![image](https://github.com/user-attachments/assets/a30213df-5f9f-4a5b-bc4c-082646b0eff6)
+)
 
 ## Katkıda Bulunanlar
 
